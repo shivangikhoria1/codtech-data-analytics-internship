@@ -30,5 +30,3 @@ This task involves performing data analysis using SQL queries. The objective was
 This task enhanced SQL skills and improved understanding of querying structured data.
 
 
-LinkedIn: https://www.linkedin.com/in/shivangi-khoria101/
-
