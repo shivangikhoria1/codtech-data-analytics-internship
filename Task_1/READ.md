@@ -31,5 +31,3 @@ This task focuses on data cleaning and analysis using Microsoft Excel. The objec
 This task helped in understanding the importance of data preprocessing and basic data analysis using Excel.
 
 
-LinkedIn: https://www.linkedin.com/in/shivangi-khoria101/
-
