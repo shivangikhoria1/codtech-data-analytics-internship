@@ -1,5 +1,8 @@
 # 🤖 Task 4: Sentiment Analysis using NLP
 
+# NOTE:
+# Please download the dataset from the link provided in README
+# and place "IMDB Dataset.csv" in the same folder before running this notebook.
 ## 📌 Overview
 
 This project performs sentiment analysis on textual data (movie reviews) using Natural Language Processing (NLP) techniques. The goal is to classify reviews as positive or negative.
@@ -9,6 +12,15 @@ This project performs sentiment analysis on textual data (movie reviews) using N
 * IMDB Movie Reviews Dataset
 * Total Records: 50,000
 * Balanced dataset with positive and negative sentiments
+
+## 📥 Dataset
+
+The dataset used in this project is too large to be uploaded to GitHub.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+After downloading, place the file in the project folder and run the notebook.
 
 ## 🛠️ Tools & Technologies
 
